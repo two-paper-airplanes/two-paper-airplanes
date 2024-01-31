@@ -10,7 +10,7 @@ i'm a student at <u>Raffles Institution</u> and I am a young woman in tech! 🫶
 
 <details>
   <summary>📫 my socials!</summary>
-  <a href="https://www.instagram.com/tspoon._.13/">insta</a> <a href="https://white-flwrs.tumblr.com">tumblr</a> <a href="https://www.linkedin.com/in/priyankha-ts-ba37b62a3/">linkedin</a> <a href="https://codebreaker.xyz/profile/lwtzjmnjhljphes">codebreaker</a>
+  <a href="https://www.instagram.com/tspoon._.13/">insta</a> </br> <a href="https://white-flwrs.tumblr.com">tumblr</a> </br> <a href="https://www.linkedin.com/in/priyankha-ts-ba37b62a3/">linkedin</a> </br> <a href="https://codebreaker.xyz/profile/lwtzjmnjhljphes">codebreaker</a>
 </details>
 </br>
 
