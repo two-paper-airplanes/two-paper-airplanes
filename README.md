@@ -3,7 +3,7 @@ i'm <em>priyankha!</em>
 
 i'm a student at <u>Raffles Institution</u> and I am a young woman in tech! 🫶💻 </br> i'm using this github account to document my journey in programming 😁
 
-- 🔭 i’m currently learning <b>c++</b>
+- 🔭 i’m currently a frontend developer for <b>nutrilab</b>
 - 🌱 i am a frontend kinda gal who is hoping to dabble into different fields (maybe finally understand the appeal of backend HAHAH)
 - 😄 pronouns: she/her!
 - ⚡ fun fact: i really enjoy chemistry as a subject... maybe even more than computing! 🤩
