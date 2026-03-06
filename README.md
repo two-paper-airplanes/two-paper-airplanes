@@ -1,7 +1,7 @@
 <h1>hey! 👋</h1>
 i'm <em>priyankha!</em>
 
-i'm a highschool graduate from <u>Raffles Institution</u> and I am a young woman in tech! 🫶💻 </br> i'm using this github account to document my journey in programming 😁
+i'm a student and a young woman in tech! 🫶💻 </br> i'm using this github account to document my journey in programming 😁
 
 - 🔭 i’m currently a frontend developer for <b>nutrilab</b>
 - 🌱 i am a frontend kinda gal who is hoping to dabble into different fields (maybe finally understand the appeal of backend HAHAH)
